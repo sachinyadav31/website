@@ -1,4 +1,4 @@
-NYCCamp.org Website
+rNYCCamp.org Website
 ===================
 
 Welcome!
@@ -37,4 +37,4 @@ Issues are tracked on GitHub at [http://github.com/NYC-Camp/website/issues](http
 
 ### Wiki
 
-More info on development processes, etc can be found on the project wiki at [http://github.com/NYC-Camp/website/wiki](http://github.com/NYC-Camp/website/wiki).
+More information on development processes, etc can be found on the project wiki at [http://github.com/NYC-Camp/website/wiki](http://github.com/NYC-Camp/website/wiki).
